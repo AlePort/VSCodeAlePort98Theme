@@ -1,1 +1,35 @@
+    "workbench.colorCustomizations": {      // ALTERAÇÕES DO TEMA
+        "sideBar.background": "#1e1e1e",
+        "activityBar.activeBackground": "#1e1e1e",
+        "activityBar.background": "#1e1e1e",
+        "sideBar.border": "#1e1e1e",
+        "titleBar.activeBackground": "#1e1e1e",
+        "titleBar.inactiveBackground": "#1e1e1e",
+        "panel.background": "#1e1e1e",
+        "tab.inactiveBackground": "#1e1e1e",
+        "debugToolBar.background": "#1e1e1e",
+        "editorGroupHeader.tabsBackground": "#1e1e1e",
+        "debugToolBar.border": "#1e1e1e",
+        "list.inactiveSelectionBackground": "#1e1e1e",
+        "statusBar.background": "#1e1e1e",
+        
+        "sideBarSectionHeader.background": "#1e1e1e00",     // Seleção da barra lateral transparente
+        "minimap.background": "#1e1e1ebb",                  // Cor do fundo do minimapa com opacidade alterada
 
+        "tab.activeBackground": "#2d2d2d",                  
+        "breadcrumb.background": "#2d2d2d",                 // Barra do path
+        "editorGutter.background": "#2d2d2d",               // Barra lateral de números
+        "editor.background": "#2d2d2d",
+        
+        "activityBar.foreground": "#3C99D4",
+        "statusBar.foreground": "#3C99D4",
+        "activityBarBadge.background": "#3C99D4",
+        "list.inactiveSelectionForeground": "#3C99D4",
+        "titleBar.activeForeground": "#3C99D4",
+
+        "tab.activeForeground": "#ffffff",
+        
+        "editorGroupHeader.tabsBorder": "#00000000",
+        "tab.border": "#00000000",
+        "focusBorder": "#00000000"
+    },
